@@ -8,3 +8,4 @@ Regex: 1Σ*0
 
 A2 = {w| w ∈ {0,1}*, w contains at least three 1s}
 Regex: Σ* 1 Σ* 1 Σ* 1 Σ*
+
