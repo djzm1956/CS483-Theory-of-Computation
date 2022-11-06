@@ -1,5 +1,4 @@
 # CS483-Theory-of-Computation
-Projects created for CS 483
 
 This is a very simple program that I wrote using the Java Pattern class. The program tests if a string
 belongs to a language given the following regular expressions: 
